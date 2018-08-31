@@ -1,0 +1,21 @@
+.Numball {
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+    float: left;
+    line-height: 40px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.Control {
+    clear:left;
+}
+
+.Control input {
+    width: 80px;
+    height: 40px;
+}
