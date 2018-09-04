@@ -9,8 +9,91 @@
 
     <script async type="application/dart" src="main2.dart"></script>
     <script async src="packages/browser/dart.js"></script>
+    <style>
+        #childId {
+            display: inline-block;
+            width: 80%;
+            margin: 20px;
+            height: 200px;
+            border: 1px solid #000;
+            background-color: #dae0d4;
+            padding: 50px;
+        }
+        .success {
+            background: #E6EFC2 5px 5px;
+            padding: 1em;
+            padding-left: 3.5em;
+            border: 2px solid #C6D880;
+            color: #529214;
+        }
+
+        .error {
+            background: #FBE3E4 5px 5px;
+            padding: 1em;
+            padding-left: 3.5em;
+            border: 2px solid #FBC2C4;
+            color: #D12F19;
+        }
+
+        .warning {
+            background: #FFF6BF 5px 5px;
+            padding: 1em;
+            padding-left: 3.5em;
+            border: 2px solid #FFD324;
+            color: #817134;
+        }
+
+        .toggle {
+            background: #cbe0f4 5px 5px;
+            padding: 1em;
+            padding-left: 3.5em;
+            border: 2px solid #96b6d3;
+            color: #286eae;
+        }
+        .fade-in {
+            opacity: 1;
+            transition: opacity 1s ease-in;
+        }
+        .fade-out {
+            opacity: 0;
+            transition: opacity 1s ease-out;
+        }
+        .big-circle {
+            width: 100px;
+            height: 100px;
+            border-radius: 100px;
+            text-align: center;
+            line-height: 100px;
+            font-size: 20px;
+            background-color: red;
+            border: none;
+            margin: 20px;
+            color: #fff;
+        }
+        .small-circle {
+            width: 50px;
+            height: 50px;
+            border-radius: 50px;
+            text-align: center;
+            line-height: 50px;
+            font-size: 14px;
+            background-color: red;
+            border: none;
+            margin: 20px;
+            color: #fff;
+        }
+    </style>
 </head>
 <body>
     <div id="textId"></div>
+    <div id="parentId">
+        <div id="childId" class="success">
+            this is a box
+        </div>
+    </div>
+    <div>
+        <input type="text" id="inputContent">
+    </div>
+    <div id = 'circle' class="small-circle">0</div>
 </body>
 </html>

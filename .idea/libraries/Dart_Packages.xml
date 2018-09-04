@@ -9,10 +9,18 @@
             </list>
           </value>
         </entry>
+        <entry key="path">
+          <value>
+            <list>
+              <option value="$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.flutter-io.cn%47/path-1.5.1/lib" />
+            </list>
+          </value>
+        </entry>
       </option>
     </properties>
     <CLASSES>
       <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.flutter-io.cn%47/browser-0.10.0+3/lib" />
+      <root url="file://$USER_HOME$/AppData/Roaming/Pub/Cache/hosted/pub.flutter-io.cn%47/path-1.5.1/lib" />
     </CLASSES>
     <SOURCES />
   </library>

@@ -7,5 +7,11 @@ packages:
       url: "https://pub.flutter-io.cn/"
     source: hosted
     version: "0.10.0+3"
+  path:
+    description:
+      name: path
+      url: "https://pub.flutter-io.cn/"
+    source: hosted
+    version: "1.5.1"
 sdks:
   dart: ">=1.8.0 <2.0.0"
