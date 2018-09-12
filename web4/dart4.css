@@ -1,0 +1,34 @@
+.box {
+    display: flex;
+    flex-direction: row;
+}
+.column {
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 20px;
+    cursor: move;
+}
+.column:nth-child(1) {
+    background-color: #529214;
+}
+.column:nth-child(2) {
+    background-color: #cccccc;
+}
+.column:nth-child(3) {
+    background-color: #D12F19;
+}
+/*拖动的时候，原DIV透明度降低、缩小尺寸*/
+.column.moving {
+    opacity: 0.25;
+    transform: scale(0.8);
+}
+/* 可拖动元素的文本设置为不能选择 */
+[draggable] {
+    user-select: none;
+}
+.column.over {
+    border: 2px dashed #000;
+}
