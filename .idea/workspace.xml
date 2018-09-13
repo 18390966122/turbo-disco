@@ -7,11 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecf6eaad-a7ef-4b98-8330-38b6142ae080" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web3/dart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web3/dart.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web4/base.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web4/dart4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web4/web4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundation/file.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo_with_delete/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo_with_delete/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo_with_delete/main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,7 +34,7 @@
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.40" value="2" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.48" value="1" />
@@ -43,14 +42,14 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="2" />
           <entry key="project.open.time.90" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="6" />
-          <entry key="dart" value="34" />
-          <entry key="html" value="11" />
+          <entry key="css" value="7" />
+          <entry key="dart" value="37" />
+          <entry key="html" value="13" />
           <entry key="js" value="3" />
           <entry key="lock" value="3" />
           <entry key="packages" value="3" />
@@ -61,9 +60,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="6" />
-          <entry key="Dart" value="34" />
-          <entry key="HTML" value="11" />
+          <entry key="CSS" value="7" />
+          <entry key="Dart" value="37" />
+          <entry key="HTML" value="13" />
           <entry key="JavaScript" value="3" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="Scratch" value="1" />
@@ -75,18 +74,18 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="4css" value="37" />
-          <entry key="css" value="202" />
-          <entry key="dart" value="9310" />
-          <entry key="html" value="912" />
+          <entry key="css" value="364" />
+          <entry key="dart" value="10738" />
+          <entry key="html" value="1136" />
           <entry key="js" value="70" />
           <entry key="yaml" value="123" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="202" />
-          <entry key="Dart" value="9310" />
-          <entry key="HTML" value="912" />
+          <entry key="CSS" value="364" />
+          <entry key="Dart" value="10738" />
+          <entry key="HTML" value="1136" />
           <entry key="JavaScript" value="70" />
           <entry key="PLAIN_TEXT" value="37" />
           <entry key="Scratch" value="42" />
@@ -100,37 +99,10 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/web4/base.dart">
+            <entry file="file://$PROJECT_DIR$/todo_with_delete/main.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="364">
-                  <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/web4/dart4.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="336">
-                  <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/web3/dart.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="147">
-                  <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/web4/web4.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="231">
-                  <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+                <state relative-caret-position="84">
+                  <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
@@ -139,20 +111,29 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/web3/dart.dart">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/todo_with_delete/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="342">
-                  <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+                <state relative-caret-position="252">
+                  <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/web3/web3.html">
+            <entry file="file://$PROJECT_DIR$/todo_with_delete/main.dart">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="84">
-                  <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+                  <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/fundation/file.dart">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="621">
+                  <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
                 </state>
               </provider>
             </entry>
@@ -166,8 +147,8 @@
       <list>
         <option value="XSLT Stylesheet" />
         <option value="HTML File" />
-        <option value="Dart File" />
         <option value="CSS File" />
+        <option value="Dart File" />
       </list>
     </option>
   </component>
@@ -222,6 +203,10 @@
         <option value="$PROJECT_DIR$/web4/dart4.dart" />
         <option value="$PROJECT_DIR$/web4/base.dart" />
         <option value="$PROJECT_DIR$/web4/web4.html" />
+        <option value="$PROJECT_DIR$/todo_with_delete/main.html" />
+        <option value="$PROJECT_DIR$/todo_with_delete/main.css" />
+        <option value="$PROJECT_DIR$/todo_with_delete/main.dart" />
+        <option value="$PROJECT_DIR$/fundation/file.dart" />
       </list>
     </option>
   </component>
@@ -266,6 +251,11 @@
             </path>
             <path>
               <item name="dart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dart" type="462c0819:PsiDirectoryNode" />
+              <item name="fundation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dart" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -290,7 +280,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web4/dart.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/todo_with_delete/main.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -310,13 +300,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.web4">
+  <component name="RunManager" selected="Dart Command Line App.file">
+    <configuration name="file" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/fundation/file.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="filePath" value="$PROJECT_DIR$/web/main.dart" />
       <method v="2" />
     </configuration>
     <configuration name="main2" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="filePath" value="$PROJECT_DIR$/web2/main2.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tode_with_delete" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="checkedMode" value="false" />
+      <option name="filePath" value="$PROJECT_DIR$/todo_with_delete/main.dart" />
       <method v="2" />
     </configuration>
     <configuration name="web3" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -331,6 +330,9 @@
     <configuration name="main.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/dart/web/main.html">
       <method v="2" />
     </configuration>
+    <configuration name="todo_with_delete" type="JavascriptDebugType" factoryName="JavaScript Debug" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/dart/todo_with_delete/main.html" useFirstLineBreakpoints="true">
+      <method v="2" />
+    </configuration>
     <configuration name="web3" type="JavascriptDebugType" factoryName="JavaScript Debug" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/dart/web3/web3.html">
       <method v="2" />
     </configuration>
@@ -338,10 +340,13 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Dart Command Line App.tode_with_delete" />
+      <item itemvalue="Dart Command Line App.file" />
       <item itemvalue="Dart Command Line App.web3" />
       <item itemvalue="Dart Command Line App.web4" />
       <item itemvalue="Dart Command Line App.main2" />
       <item itemvalue="Dart Command Line App.main" />
+      <item itemvalue="JavaScript Debug.todo_with_delete" />
       <item itemvalue="JavaScript Debug.web4" />
       <item itemvalue="JavaScript Debug.web3" />
       <item itemvalue="JavaScript Debug.web" />
@@ -380,7 +385,8 @@
       <workItem from="1536227347771" duration="1406000" />
       <workItem from="1536283692994" duration="4787000" />
       <workItem from="1536657010975" duration="1825000" />
-      <workItem from="1536718930256" duration="863000" />
+      <workItem from="1536718930256" duration="4248000" />
+      <workItem from="1536803407924" duration="1939000" />
     </task>
     <servers />
   </component>
@@ -417,18 +423,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55841000" />
+    <option name="totallyTimeSpent" value="61165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.115384616" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10642782" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30227518" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22751896" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -521,16 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/dartsdk-windows-x64-release/dart-sdk/lib/html/dartium/html_dartium.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10480" column="12" selection-start-line="10480" selection-start-column="2" selection-end-line="10480" selection-end-column="12" />
-          <folding>
-            <element signature="e#847#867#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -599,20 +595,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web3/dart.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web3/web3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web3/dart.css" />
+    <entry file="file://$PROJECT_DIR$/web3/web3.html" />
     <entry file="file://$PROJECT_DIR$/web4/web4.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -620,17 +604,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web3/dart.dart">
+    <entry file="file://$PROJECT_DIR$/web3/dart.dart" />
+    <entry file="file://$PROJECT_DIR$/web4/base.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        <state relative-caret-position="28">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web4/base.dart">
+    <entry file="file://C:/dartsdk-windows-x64-release/dart-sdk/lib/html/dartium/html_dartium.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        <state relative-caret-position="121">
+          <caret line="14284" column="14" lean-forward="true" selection-start-line="14284" selection-start-column="14" selection-end-line="14284" selection-end-column="14" />
+          <folding>
+            <element signature="e#847#867#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo_with_delete/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo_with_delete/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todo_with_delete/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fundation/file.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
         </state>
       </provider>
     </entry>

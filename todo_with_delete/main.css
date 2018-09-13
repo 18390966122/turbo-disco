@@ -1,0 +1,13 @@
+.header {
+    border: 1px solid #817134;
+    margin: 20px;
+    padding: 20px;
+}
+input {
+    height: 40px;
+    width: 200px;
+    padding: 0 10px;
+}
+#deleteAll li {
+    cursor: pointer;
+}
