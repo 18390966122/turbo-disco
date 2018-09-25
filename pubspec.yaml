@@ -2,3 +2,6 @@ name: dart
 dependencies:
   path: any
   browser: any
+  crypto: any
+  http: any
+  http_server: any
